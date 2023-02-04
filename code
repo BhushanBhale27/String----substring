@@ -1,0 +1,4 @@
+let name = "Bhushan"
+console.log(name.substring(2,5));
+// here we got ush  as output ... 
+// 2 is inclusive and 5 is exclusive
